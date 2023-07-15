@@ -1,4 +1,4 @@
-# 📝 Crowd Counter Readme 🚀
+# 📝 Crowd-Counter 🚀
 
 Welcome to the Crowd Counter program! This Python application utilizes the p2pnet model to calculate the number of people in a crowd based on an input image. The program marks each and every entity in the crowd with a point and provides the total count of individuals as the program output. 🙆‍♂️🙆‍♀️
 
@@ -9,7 +9,7 @@ To set up the Crowd Counter program, follow these steps:
 1. Clone the repository to your local machine. 💻
 2. Install the required dependencies using `pip install -r requirements.txt`. 📦
 3. Make sure you have the p2pnet model files available in the correct directory. 🗂️
-4. Run the program using `python crowd_counter.py`. 🏃‍♂️💨
+4. Run the program using `python flask_app.py`. 🏃‍♂️💨
 
 ## 🖼️ Input Image
 
